@@ -12,7 +12,9 @@ app.get('/', (req, res) => {
     res.send('server running')
 });
 
-
+app.get('/courses', (req, res) => {
+    res.send(courses);
+})
 
 app.listen(port, () => {
     console.log(`surver is running, ${port}`)
