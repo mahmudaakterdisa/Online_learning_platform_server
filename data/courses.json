@@ -47,7 +47,7 @@
         "courseimg": "https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?w=996&t=st=1666650854~exp=1666651454~hmac=fc69e438a69db1b18ecb857118d92a4fccde948e8b37c50c158f65475790123a",
         "coursename": "C++",
         "enrolledstudent": "180 Students",
-        "instructor-name": "Orhan turke",
+        "instructorname": "Orhan turke",
         "instructorimg": "https://img.freepik.com/free-photo/close-up-cheeky-guy-with-beard-turn-face-camera-winking-with-smile-standing_1258-26721.jpg?t=st=1666648992~exp=1666649592~hmac=36a43bff8db0297e05aceb6ae9c06000bbbc930cf40be048038dcf81b8686aa1",
         "overview": "This hands on C programming course provides a comprehensive introduction to the ANSI C language, emphasizing portability and structured design. Students are introduced to all major language elements including fundamental data types, flow control, and standard function libraries. Thorough treatment is given to the topics of string and character manipulation, dynamic memory allocation, standard I/O, macro definition, and the C runtime library. The C training course explains the use of aggregate structures, unions, and pointers early on so the students can practice extensively in the hands on labs. Structured programming constructs and varargs functions are also covered. Emphasis is given to the processing of command line arguments and environment variables so students will be able to write flexible, user-friendly programs. The course also includes coverage of portability tips drawn from experienced programmers working in production environments. Comprehensive hands on exercises are integrated throughout to reinforce learning and develop real competency.",
         "price": "270$",
